@@ -1,0 +1,24 @@
+pairs	L0	80	1000	rf
+DV1polyflex	L1	100	600	rf
+DV1riboflex	L2	100	600	rf
+Starved_1h_1	L3	70	400	rf
+Starved_1h_2	L4	70	400	rf
+Starved_15h_3	L5	70	400	rf
+Starved_15h_4	L6	70	400	rf
+Starved_60h_5	L7	70	400	rf
+Starved_60h_6	L8	70	400	rf
+Low_1h_1	L9	70	400	rf
+Low_1h_2	L10	70	400	rf
+Low_15h_3	L11	70	400	rf
+Low_15h_4	L12	70	400	rf
+Low_60h_5	L13	70	400	rf
+Low_60h_6	L14	70	400	rf
+Stijn2Ug	L15	70	400	rf
+Stijn20worms	L16	70	400	rf
+RAMPAGE1	L17	70	500	rf
+RAMPAGE2	L18	70	500	rf
+mlsseq2	L19	50	500	rf
+mlsseq3	L20	50	500	rf
+mlsseq4	L21	50	500	rf
+
+

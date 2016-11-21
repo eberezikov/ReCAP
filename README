@@ -1,0 +1,7 @@
+
+ReCAP: transcriptome re-assembly by CAP3/Newbler with consistent placement of paired-end reads.
+
+This branch contains scripts used to assemble M. lignano transcriptome MLRNA150904.
+
+For general usage, some code adjustment will be required to reflect particular cluster environment and data types.
+
